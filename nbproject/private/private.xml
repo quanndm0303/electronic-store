@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="PraticePRJHome">
+            <file>file:/F:/PRJ301-Source/ElectronicStore/web/view/common/homepage/footer-top.jsp</file>
+            <file>file:/F:/PRJ301-Source/ElectronicStore/web/WEB-INF/web.xml</file>
+            <file>file:/F:/PRJ301-Source/ElectronicStore/web/view/common/homepage/header-top-campaign.jsp</file>
+            <file>file:/F:/PRJ301-Source/ElectronicStore/web/view/common/homepage/axil-header-top.jsp</file>
+            <file>file:/F:/PRJ301-Source/ElectronicStore/src/java/controller/homepage/HomeController.java</file>
+            <file>file:/F:/PRJ301-Source/ElectronicStore/src/java/controller/homepage/ProductDetailsController.java</file>
+            <file>file:/F:/PRJ301-Source/ElectronicStore/src/java/filter/CheckOutFilter.java</file>
+            <file>file:/F:/PRJ301-Source/ElectronicStore/src/java/controller/user/DashBoardServlet.java</file>
+            <file>file:/F:/PRJ301-Source/ElectronicStore/src/java/controller/admin/DashboardServlet.java</file>
+            <file>file:/F:/PRJ301-Source/ElectronicStore/src/java/controller/homepage/ResetPassServlet.java</file>
+            <file>file:/F:/PRJ301-Source/ElectronicStore/src/java/controller/user/PaymentController.java</file>
+            <file>file:/F:/PRJ301-Source/ElectronicStore/src/java/model/OrderDetails.java</file>
+            <file>file:/F:/PRJ301-Source/ElectronicStore/web/view/common/homepage/service-area.jsp</file>
+            <file>file:/F:/PRJ301-Source/ElectronicStore/src/java/filter/ExtensionFileFilter.java</file>
+            <file>file:/F:/PRJ301-Source/ElectronicStore/web/view/shop.jsp</file>
+            <file>file:/F:/PRJ301-Source/ElectronicStore/src/java/controller/user/CheckOutServlet.java</file>
+            <file>file:/F:/PRJ301-Source/ElectronicStore/web/assets/js/main.js</file>
+            <file>file:/F:/PRJ301-Source/ElectronicStore/web/view/home.jsp</file>
+            <file>file:/F:/PRJ301-Source/ElectronicStore/src/java/dal/implement/AccountDAO.java</file>
+            <file>file:/F:/PRJ301-Source/ElectronicStore/src/java/controller/homepage/ShopController.java</file>
+            <file>file:/F:/PRJ301-Source/ElectronicStore/web/view/product-detail.jsp</file>
+            <file>file:/F:/PRJ301-Source/ElectronicStore/src/java/model/Category.java</file>
+            <file>file:/F:/PRJ301-Source/ElectronicStore/web/view/common/homepage/axil-mainmenu.jsp</file>
+            <file>file:/F:/PRJ301-Source/ElectronicStore/web/view/common/homepage/axil-newsletter-area.jsp</file>
+            <file>file:/F:/PRJ301-Source/ElectronicStore/src/java/controller/authen/AuthenticationController.java</file>
+            <file>file:/F:/PRJ301-Source/ElectronicStore/src/java/model/Order.java</file>
+            <file>file:/F:/PRJ301-Source/ElectronicStore/web/view/reset-password.jsp</file>
+        </group>
+    </open-files>
+</project-private>
